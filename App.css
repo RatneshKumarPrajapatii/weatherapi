@@ -1,0 +1,48 @@
+*{
+    align-items: center;
+}
+.main-header{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    height: 100vh;
+    margin-bottom: 80px;
+}
+.container-fluid{
+    align-items: center;
+    margin: auto;
+}
+.form{
+    margin: 4px;
+}
+body{
+    background-color: aliceblue;
+}
+.input{
+    margin-right: 4px;
+    border-radius: 10px;
+    border-color: #5f9ea0;
+    border-width: 1px;
+}
+.card{
+    border-style: inset;
+    width: 100%;
+    height: 20rem;
+    background-color:lightblue;
+    text-align: center;
+}
+.body-content{
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    font-family: Arial,  sans-serif;
+    font-size:x-large;
+    color: bisque;
+}
+.icon{
+    border: 1px solid wheat;
+    background-color: white;
+    margin: 5px;
+    border-radius: 50px;
+}
